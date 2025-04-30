@@ -31,3 +31,8 @@ wheels/
 *.swp
 *.swo
 .DS_Store 
+
+# Personal docs 
+meeting_transcription.txt
+meeting.mp4
+transcript.txt
